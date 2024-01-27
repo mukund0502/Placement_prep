@@ -1,4 +1,4 @@
-# Important Algorithms asked in interview 
+> # Important Algorithms asked in interview 
 ## Graph
 1. dfs 
 2. bfs
